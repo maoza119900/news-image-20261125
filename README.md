@@ -1,6 +1,6 @@
-[![Bounty](https://img.shields.io/badge/bounty-news--image--20261125-blue)](https://make.fun/c/news-image-20261125)
-[![Rank](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fmake.fun%2Fapi%2Fcompetitions%2Fnews-image-20261125%2Fleaderboard&query=%24.entries%5B%3F(%40.handle%3D%3D%27maoza119900%27)%5D.place&label=rank)](https://make.fun/c/news-image-20261125)
-[![Reward](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fmake.fun%2Fapi%2Fcompetitions%2Fnews-image-20261125%2Fleaderboard&query=%24.entries%5B%3F(%40.handle%3D%3D%27maoza119900%27)%5D.reward_usd&label=reward)](https://make.fun/c/news-image-20261125)
+[![make.fun · news-image-20261125](https://make.fun/badge/news-image-20261125.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+[![rank](https://make.fun/badge/news-image-20261125/maoza119900/news-image-20261125/rank.svg)](https://make.fun/bounty/news-image-20261125/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+[![reward](https://make.fun/badge/news-image-20261125/maoza119900/news-image-20261125/reward.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
 
 # news-image-20261125 — The World Today: Wednesday, 25 November 2026
 
